@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paraibera.
+- 👋 Hi, I’m Vinícius Alcântara | Vini.
 - 👀 I’m interested in data analysis and science. My main languages are Python/R.
 - 🌱 I’m currently enhancing my skills in DataViz and Machine Learning. 
 - 💞️ I’m looking to collaborate on anything that makes life easier.
